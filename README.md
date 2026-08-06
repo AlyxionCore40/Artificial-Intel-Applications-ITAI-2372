@@ -1,6 +1,6 @@
-# Artificial-Intel-Applications-ITAI-2372
+## Artificial-Intel-Applications-ITAI-2372- Course Portfolio
 Prof. Sridhar Ganti
-## AI Applications in Business & Society — Course Portfolio
+
 
 ## About Me
 
