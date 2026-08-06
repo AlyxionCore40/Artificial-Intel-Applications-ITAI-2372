@@ -4,11 +4,11 @@ Prof. Sridhar Ganti
 
 ## About Me
 
-I'm building toward a career as an **AI Analyst / AI Implementation Specialist**, with a focus on understanding both the technical capabilities of AI systems and how those technologies can be responsibly applied to real-world organizational challenges. My interest lies at the intersection of technology and operations — identifying where AI can meaningfully improve efficiency, accuracy, and decision-making within existing business processes, while keeping governance, ethics, and human impact at the center of implementation.
+I'm building toward a career as an **AI Analyst / AI Implementation Specialist**, with a focus on understanding both the technical capabilities of AI systems and how those technologies can be responsibly applied to real-world organizational challenges. My interest lies at the intersection of technology and operations. Main interest is to be able to identify where AI can meaningfully improve efficiency, accuracy, and decision-making within existing business processes. At the same time, in belief of AI implementation should keep governance, ethics, and human impact at the center of the process.
 
 ## Course Overview
 
-This course explores the practical application of AI within real-world business, industrial, and public-sector processes. It covers how AI systems are selected, evaluated, integrated, and governed across industries such as healthcare, manufacturing, logistics, finance, government, agriculture, and transportation — with emphasis on understanding how work actually happens inside organizations, mapping decision points in workflows, and identifying where AI can responsibly improve outcomes. Through labs, case analyses, process-mapping exercises, and applied projects, this course builds workforce-ready skills aligned with AI analyst, AI implementation, and AI operations roles.
+This course explores the practical application of AI in real-world business, industrial, and public-sector environments. Main key focuses on how AI systems are selected, evaluated, integrated, and governed across industries such as healthcare, manufacturing, logistics, finance, government, agriculture, and transportation. The course emphasizes understanding how work is performed within organizations, mapping decision points in workflows, and identifying where AI can responsibly improve efficiency and outcomes. Through lectures, case analyses, process-mapping exercises, and applied projects, the course develops workforce-ready skills for roles such as AI analyst, AI implementation specialist, and AI operations professional.
 
 ## Skills & Technology
 
