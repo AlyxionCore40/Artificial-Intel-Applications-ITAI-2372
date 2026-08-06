@@ -47,6 +47,7 @@ A short presentation highlighting key learnings and project highlights from this
 
 ## Contact
 
-- **Email:** [ ]
-- **LinkedIn:** [ ]
+- **Email:** [W1486067@student.hccs.edu]
+
+- **LinkedIn:** [(https://www.linkedin.com/in/alexia-chavez-217a6b427/)]
 - **GitHub:** [ ]
