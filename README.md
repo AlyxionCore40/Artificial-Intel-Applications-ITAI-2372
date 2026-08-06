@@ -39,7 +39,7 @@ This course explores the practical application of AI within real-world business,
 ## Presentation
 
 A short presentation highlighting key learnings and project highlights from this course:
-📎 *[[Link to your presentation — e.g., Google Slides, PowerPoint, or PDF]](https://docs.google.com/presentation/d/1gyDjE6lqyZzw9aLwU5VatLPgjsYpRdRi/edit?slide=id.p5#slide=id.p5)*
+📎 *(https://docs.google.com/presentation/d/1gyDjE6lqyZzw9aLwU5VatLPgjsYpRdRi/edit?slide=id.p5#slide=id.p5)*
 
 ## Certifications
 
