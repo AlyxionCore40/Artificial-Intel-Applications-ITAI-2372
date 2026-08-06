@@ -17,15 +17,9 @@ This course explores the practical application of AI in real-world business, ind
 | AI Concepts | Machine Learning fundamentals, AI system evaluation, responsible/ethical AI, AI governance |
 | Business Application | Process mapping, workflow analysis, use-case identification, case study analysis |
 | Industries Studied | Healthcare, Manufacturing, Oil & Gas, Autonomous Transportation, Digital Twins, Emergency Response, Supply Chain/Logistics |
-| Technical | *(AI Platforms /Generative AI Tools
-ChatGPT / Claude — case analysis, drafting, prompt engineering exercises
-Microsoft Copilot — business-context AI use cases
-Data & Business Analysis
-Excel — data visualization for case studies
-Python (if any hands-on labs involved data/ML basics)
-Process & Documentation Tools
-Lucidchart / Visio (or similar) — for process-mapping exercises mentioned in the course description
-Microsoft Office / Google Workspace — reports, presentations)* |
+| Technical | *(AI Platforms /Generative AI ToolsChatGPT / Claude — case analysis, drafting, prompt engineering exercises
+Microsoft Copilot — business-context AI use casesData & Business Analysis Excel — data visualization for case studies
+Python (if any hands-on labs involved data/ML basics)Process & Documentation ToolsLucidchart / Visio (or similar) — for process-mapping exercises mentioned in the course description Microsoft Office / Google Workspace — reports, presentations)* |
 | Professional | Technical writing, presentation design, stakeholder communication |
 
 ## Coursework & Projects
